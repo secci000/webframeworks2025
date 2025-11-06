@@ -1,0 +1,18 @@
+.thzero {
+    color: red;
+}
+
+th {
+    padding: 5px;
+    color: green;
+    border: 1px solid black;
+}
+
+td {
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+}
+table{
+    margin-bottom: 10px;
+}

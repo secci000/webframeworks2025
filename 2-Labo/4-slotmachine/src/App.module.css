@@ -1,0 +1,14 @@
+.slot{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px;
+}
+p{
+    font-size: 22px;
+}
+.won{
+    color:green;
+}
+.lost{
+    color: red;
+}
